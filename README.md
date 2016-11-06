@@ -1,8 +1,5 @@
 # CaesiumPortable
 
-## Todo
-- Compare against released package, definitely out of date info here
-
 
 ## Build Process
 1. After installing [Caesium](https://sourceforge.net/projects/caesium/files/), copy the files into the `App/Caesium/` folder
